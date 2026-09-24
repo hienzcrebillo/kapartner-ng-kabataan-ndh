@@ -102,7 +102,7 @@ useEffect(() => {
       />
       <div
         className="container mx-auto 
-      px-6 relative z-10"
+      px-10 relative z-10"
       >
         {/* Section Header */}
         <div
@@ -139,8 +139,8 @@ useEffect(() => {
                             </button>
                         </div>  
 
-                        <div className=" p-8 rounded-3xl md:p-12 animate-fade-in animation-delay-200 ">
-                            <div className="relative w-full h-[550px] overflow-hidden rounded-2xl -ml-4">
+                        <div className=" p-8 rounded-3xl md:p-17 animate-fade-in animation-delay-200 ">
+                            <div className="relative w-full h-full overflow-hidden rounded-2xl">
                                 <div
                                     className={`flex w-full h-full ${
                                         animate
@@ -165,7 +165,7 @@ useEffect(() => {
                             </div>
                         </div>
 
-                        <div className="mx-10">
+                        <div className="mx-5 -mt-5">
                             <div className="p-6 md:p-6">
                              
                             </div>
