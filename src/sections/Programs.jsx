@@ -54,7 +54,7 @@ const projects = [
 ];
 
 export const Programs = () => {
-    return <section id= "programs" className="py-25 relative overflow-hidden">
+    return <section id= "programs" className="py-25 relative overflow-hidden bg-gradient-to-b from-white via-gray-200 to-white">
                 {/* Bg glows */}
                 <div className="absolute top-1/4 right-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl" />
                 <div className="absolute bottom-1/4 left-0 w-64 h-64 bg-highlight/5 rounded-full blur-3xl" />

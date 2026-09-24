@@ -53,7 +53,7 @@ const layunin = [
 ]
 
 export const About = () => {
-    return <section id= "about" className="py-25 relative overflow-hidden">
+    return <section id= "about" className="py-25 relative overflow-hidden bg-gradient-to-b from-gray-200 via-white to-gray-200">
         <div className="container mx-auto px-6 relatize z-10">
 
             

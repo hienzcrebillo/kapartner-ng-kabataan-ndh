@@ -141,7 +141,7 @@ useEffect(() => {
 }, [currentImage, images.length]);
   
   return (
-    <section id="projects" className="py-20 relative overflow-hidden">
+    <section id="projects" className="py-20 relative overflow-hidden bg-gradient-to-b from-gray-200 via-white to-gray-200">
       <div
         className="absolute top-1/2 left-1/2
        w-[800px] h-[800px] bg-primary/5
