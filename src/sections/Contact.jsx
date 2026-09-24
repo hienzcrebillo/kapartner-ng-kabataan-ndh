@@ -171,7 +171,7 @@ export const Contact = () => {
                         className="w-full text-white disabled:opacity-50 disabled:cursor-not-allowed"
                         type="submit"
                         size="lg"
-                        disabled
+                        disable={{isLoading}}
                       >
                         Send Message
                         <Send className="w-5 h-5" />
