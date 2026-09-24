@@ -10,14 +10,14 @@ const partners =[
         description: " Programang nagbibigay oportunidad sa mga kabataan upang matuto ng mga bagong kasanayan sa paggawa ng iba’t ibang Pastry at maging handa sa kanilang kinabukasan.",
         links: "https://www.facebook.com/share/p/1B4pLu1pST/?mibextid=wwXIfr ",
         images: [
-            "/program-photos/sining/s1.png",
-            "/program-photos/sining/s2.png",
-            "/program-photos/sining/s3.png",
-            "/program-photos/sining/s4.png",
-            "/program-photos/sining/s5.png",
-            "/program-photos/sining/s6.png",
-            "/program-photos/sining/s7.png",
-            "/program-photos/sining/s8.png",
+            "public/program-photos/sining/s1.png",
+            "public/program-photos/sining/s2.png",
+            "public/program-photos/sining/s3.png",
+            "public/program-photos/sining/s4.png",
+            "public/program-photos/sining/s5.png",
+            "public/program-photos/sining/s6.png",
+            "public/program-photos/sining/s7.png",
+            "public/program-photos/sining/s8.png",
         ]
     },
      {
@@ -27,14 +27,14 @@ const partners =[
         description: " Ang Youth Mission: Nutrisyon ay isang makabuluhang programa para sa kabataan na nagtataguyod ng kaalaman tungkol sa wastong nutrisyon, malusog na pamumuhay, at mga digital health initiative tulad ng Taguig Nutri App. Sa pamamagitan ng diet counseling at mga sesyon sa Pinggang Pinoy at 10 Kumainments, nagkaroon ng pagkakataon ang mga kabataan na matuto mula sa mga eksperto at mapalawak ang kanilang kamalayan sa kahalagahan ng kalusugan at nutrisyon para sa komunidad. ",
         links: "https://www.facebook.com/share/r/1GvzycDSop/ ",
         images: [
-            "/program-photos/youth/y1.png",
-            "/program-photos/youth/y2.png",
-            "/program-photos/youth/y3.png",
-            "/program-photos/youth/y4.png",
-            "/program-photos/youth/y5.png",
-            "/program-photos/youth/y6.png",
-            "/program-photos/youth/y7.png",
-            "/program-photos/youth/y8.png",
+            "public/program-photos/youth/y1.png",
+            "public/program-photos/youth/y2.png",
+            "public/program-photos/youth/y3.png",
+            "public/program-photos/youth/y4.png",
+            "public/program-photos/youth/y5.png",
+            "public/program-photos/youth/y6.png",
+            "public/program-photos/youth/y7.png",
+            "public/program-photos/youth/y8.png",
         ]
     }
 ]
