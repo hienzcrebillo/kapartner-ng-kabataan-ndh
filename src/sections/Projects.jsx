@@ -11,11 +11,11 @@ const projects =[
         description: "Ang Rolling Kitchen Program ay isang community-based feeding initiative na naglalayong maghatid ng masarap at masustansyang pagkain para sa mga kabataan sa North Daanghari. Sa pamamagitan ng programang ito, nais ng Kapartner ng Kabataan – North Daanghari na makapaghatid hindi lamang ng pagkain kundi pati ng saya, pakikipagkapwa, at malasakit sa bawat kabataang nakikilahok.",
         links: "https://www.facebook.com/share/p/1W23DjCa25/",
         images: [
-            "/Program Photos/rollingkitchen/rk1.png",
-            "/Program Photos/rollingkitchen/rk2.png",
-            "/Program Photos/rollingkitchen/rk3.png",
-            "/Program Photos/rollingkitchen/rk4.png",
-            "/Program Photos/rollingkitchen/rk5.png",
+            "/program-photos/rollingkitchen/rk1.png",
+            "/program-photos/rollingkitchen/rk2.png",
+            "/program-photos/rollingkitchen/rk3.png",
+            "/program-photos/rollingkitchen/rk4.png",
+            "/program-photos/rollingkitchen/rk5.png",
         ]
 
     },
@@ -27,10 +27,10 @@ const projects =[
         description: "Ang NutriHenyo ay isang interactive na programa para sa kabataan na nagtataguyod ng kaalaman tungkol sa wastong nutrisyon at malusog na pamumuhay. Sa pamamagitan ng isang masayang Live Quiz Bee, nagkaroon ng pagkakataon ang mga kabataan na matuto, makilahok, at subukin ang kanilang kaalaman tungkol sa nutrisyon habang nakikipagpaligsahan sa kapwa kabataan.",
         links: "https://www.facebook.com/share/p/19apL9ijpG/?mibextid=wwXIfr",
         images: [
-            "/Program Photos/nutrihenyo/nh1.png",
-            "/Program Photos/nutrihenyo/nh2.png",
-            "/Program Photos/nutrihenyo/nh3.png",
-            "/Program Photos/nutrihenyo/nh4.png",
+            "/program-photos/nutrihenyo/nh1.png",
+            "/program-photos/nutrihenyo/nh2.png",
+            "/program-photos/nutrihenyo/nh3.png",
+            "/program-photos/nutrihenyo/nh4.png",
         ]
 
     },
@@ -41,11 +41,11 @@ const projects =[
         description: "Bilang pagdiriwang ng Buwan ng Wika, Isang Tiktok Spoken Poetry challenge ang inihanda upang maipamalas ng mga kabataan ng North Daanghari ang kanilang taglay sa pag bigkas ng tula at pagpapamalas ng pagmamahal sa wikang pambansa.",
         links: "https://www.facebook.com/share/p/19FuGVexzk/?mibextid=wwXIfr ",
         images: [
-            "/Program Photos/kabataan/k1.png",
-            "/Program Photos/kabataan/k2.png",
-            "/Program Photos/kabataan/k3.png",
-            "/Program Photos/kabataan/k4.png",
-            "/Program Photos/kabataan/k5.png",
+            "/program-photos/kabataan/k1.png",
+            "/program-photos/kabataan/k2.png",
+            "/program-photos/kabataan/k3.png",
+            "/program-photos/kabataan/k4.png",
+            "/program-photos/kabataan/k5.png",
         ]
 
     },
@@ -57,11 +57,11 @@ const projects =[
         description: "Ang Wikapangyarihan: Ang Tunay na Henyo ay isang interactive na programa para sa kabataan na nagtataguyod ng kaalaman tungkol sa pagpapahalaga sa wikang Filipino, kultura, at karunungang-bayan. Sa pamamagitan ng isang masayang Live Quiz Bee, nagkaroon ng pagkakataon ang mga kabataan na matuto, makilahok, at subukin ang kanilang talino tungkol sa wika habang nakikipagpaligsahan at nagkakaroon ng koneksyon sa kapwa kabataan.",
         links: "https://www.facebook.com/share/p/187QoBpunK/",
         images: [
-            "/Program Photos/wika/w1.png",
-            "/Program Photos/wika/w2.png",
-            "/Program Photos/wika/w3.png",
-            "/Program Photos/wika/w4.png",
-            "/Program Photos/wika/w5.png",
+            "/program-photos/wika/w1.png",
+            "/program-photos/wika/w2.png",
+            "/program-photos/wika/w3.png",
+            "/program-photos/wika/w4.png",
+            "/program-photos/wika/w5.png",
         ]
 
     },
@@ -72,12 +72,12 @@ const projects =[
         description: "Ang City of Taguig: Youth Trade Bazaar ay isang programa na nagbibigay ng pagkakataon sa mga kabataan na matuto at magkaroon ng aktuwal na karanasan sa entrepreneurship, financial literacy, customer service, at pagpapatakbo ng maliit na negosyo. Sa pamamagitan ng programa, nabigyan ang mga kabataan ng espasyo upang maipakita ang kanilang sipag, pagkamalikhain, diskarte, at kakayahan habang nagbebenta ng kanilang mga produkto. Higit pa sa pagkakaroon ng pagkakakitaan, layunin ng Youth Trade Bazaar na mahubog ang mga kabataan sa pagiging mas responsable, madiskarte, at handang humarap sa mga hamon ng entrepreneurship.",
         links: "https://www.facebook.com/share/p/19JkLsif3u/?mibextid=wwXIfr ",
         images: [
-            "/Program Photos/bazaar/b1.png",
-            "/Program Photos/bazaar/b2.png",
-            "/Program Photos/bazaar/b3.png",
-            "/Program Photos/bazaar/b4.png",
-            "/Program Photos/bazaar/b5.png",
-            "/Program Photos/bazaar/b6.png",
+            "/program-photos/bazaar/b1.png",
+            "/program-photos/bazaar/b2.png",
+            "/program-photos/bazaar/b3.png",
+            "/program-photos/bazaar/b4.png",
+            "/program-photos/bazaar/b5.png",
+            "/program-photos/bazaar/b6.png",
         ]
 
     },
